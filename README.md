@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
-  <img src="./vis.png" alt="시각화 결과" width="100%">
+  <img src="./vis.png" alt="시각화 결과" width="800">
 </p>
 
 단일 고정 카메라로 촬영한 테니스 경기 영상에서 선수를 탐지·추적하고, 영상 좌표를 실제 코트 좌표로 변환하여 선수별 이동 거리와 움직임 통계를 산출하는 컴퓨터 비전 파이프라인입니다.
